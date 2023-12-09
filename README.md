@@ -1,1 +1,8 @@
-# DataOne_F1
+# DataOne: A Formula 1 Comprehensive analysis
+
+
+Embarking on a journey through the analysis of Formula 1, our comprehensive project serves as an in-depth exploration of the sport's evolution from its inaugural year in 1950 to the present-day landscape of 2023. Armed with data sourced from diverse platforms, including the Fast F1 Python package, Kaggle, GitHub resources, and the Ergast API, our analytical endeavor aims to unravel the intricacies of Formula 1 through a multifaceted lens.
+
+This project aims to analyze how drivers perform on different circuits, compare teammates' performance across seasons, and track constructors' points over time. We also explore factors like lap times of teams and drivers, circuits and the corners of every circuit, corner speeds of drivers in every circuit and tires impact. In our pursuit of unraveling Formula 1's secrets, we scrutinize podium rates, shedding light on the success stories of both teams and individual drivers. Exploring the global representation within the sport, we examine the triumphs of nationalities, offering a nuanced perspective on the diverse tapestry that constitutes Formula 1. This comprehensive project aims to highlight various nuances of Formula 1, employing a combination of data visualization techniques using matplotlib, seaborn, plotly, Altair to make interactive dashboards to uncover the crux behind the patterns and trends that define Formula 1.
+
+To make the visualizations of the notebook interactive and visible, run the notebook with the required dependencies. For a quick look into the project and visualizations, use the DataOne.mp4 to view the notebook. 
